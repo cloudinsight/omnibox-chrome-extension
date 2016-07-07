@@ -1,2 +1,5 @@
-# omnibox-chrome-extension
-Search your metrics from location bar
+# Cloudinsight Omnibox
+
+Search your metrics from your Chrome location bar
+
+![](./docs/screenshot.png)

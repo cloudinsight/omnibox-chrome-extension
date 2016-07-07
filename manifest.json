@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "Cloudinsight Omnibox",
+  "version": "0.0.0",
+  "description": "Omnibox for Cloudinsight",
+  "background": {
+    "scripts": [
+      "lib/background.js"
+    ]
+  },
+  "permissions": [
+    "*://cloud.oneapm.com/*",
+    "tabs"
+  ],
+  "omnibox": {
+    "keyword": "ci"
+  }
+}
